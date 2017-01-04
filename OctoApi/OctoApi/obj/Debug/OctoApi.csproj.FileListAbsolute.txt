@@ -1,0 +1,6 @@
+C:\testC#\OctoApi\OctoApi\OctoApi\bin\Debug\OctoApi.exe.config
+C:\testC#\OctoApi\OctoApi\OctoApi\obj\Debug\OctoApi.csprojResolveAssemblyReference.cache
+C:\testC#\OctoApi\OctoApi\OctoApi\bin\Debug\OctoApi.exe
+C:\testC#\OctoApi\OctoApi\OctoApi\bin\Debug\OctoApi.pdb
+C:\testC#\OctoApi\OctoApi\OctoApi\obj\Debug\OctoApi.exe
+C:\testC#\OctoApi\OctoApi\OctoApi\obj\Debug\OctoApi.pdb
